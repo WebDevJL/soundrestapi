@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eventTypes>
+    <eventType id="1" name="create" />
+    <eventType id="2" name="select" />
+    <eventType id="3" name="update" />
+    <eventType id="4" name="delete" />
+</eventTypes>

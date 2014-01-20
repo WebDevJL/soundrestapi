@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <api_ajax_events_config>
+        <add key="EventConfigurations" filepath="~/config/ajaxEventConfigurations.xml" />
+        <add key="EventTypes" filepath="~/config/ajaxEventTypes.xml" />
+        <add key="EventParams" filepath="~/config/ajaxEventParams.xml" />
+    </api_ajax_events_config>
+    <api_cache>
+        
+    </api_cache>
+</settings>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<applications>
+    <application id="1" name="SoudBudget" />
+    <application id="2" name="FinanceApp" />
+</applications>

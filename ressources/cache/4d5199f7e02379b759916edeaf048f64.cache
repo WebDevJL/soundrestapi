@@ -1,0 +1,1 @@
+{"api_ajax_events_config":{"add":[{"@attributes":{"key":"EventConfigurations","filepath":"~\/config\/ajaxEventConfigurations.xml"}},{"@attributes":{"key":"EventTypes","filepath":"~\/config\/ajaxEventTypes.xml"}},{"@attributes":{"key":"EventParams","filepath":"~\/config\/ajaxEventParams.xml"}}]},"api_cache":{"0":"\n        \n    "}}
